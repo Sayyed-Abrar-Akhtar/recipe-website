@@ -1,0 +1,1 @@
+import "./globals.css";export const metadata={title:"The Sunday Table | Seasonal Recipes",description:"Approachable seasonal recipes and kitchen inspiration for everyday cooking."};export default function RootLayout({children}){return <html lang="en"><body>{children}</body></html>}
